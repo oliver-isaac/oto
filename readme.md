@@ -2,7 +2,7 @@
 
 ![oto](./images/oto.png)
 
-Oto is a theme for the Zed code editor.
+Oto is a theme for the Zed code editor. It's a dark theme with a focus on clear colours and a clean minimal look.
 
 ### Installation
 
