@@ -15,3 +15,5 @@ Then Run:
 ```bash
 sudo find ~/oto/ -type f \( -iname '*.json' \) -exec cp {} ~/.config/zed/themes \;
 ```
+
+![oto-screenshot](./images/oto-screenshot.png)
